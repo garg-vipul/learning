@@ -2,4 +2,4 @@
 *.log
 # dir/
 /dir/
-/static/dir/
+static/dir
