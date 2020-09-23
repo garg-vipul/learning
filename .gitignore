@@ -1,3 +1,5 @@
 # error.log
 *.log
-dir/
+# dir/
+/dir/
+G:\MyGit\static\dir
